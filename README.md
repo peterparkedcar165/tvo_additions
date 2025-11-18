@@ -13,7 +13,7 @@
 ### Chestplate:
 #### Fire Ward [5]: Every second, when in combat, emanate an aura that deals 1/2/3/4/5 Fire Damage, and sets target on fire for 4 seconds.
 ### Leggings:
-#### Stealth [5]: Increase Stealth by 8%/Lvl.
+#### Ghostwalk [5]: Increase Stealth by 8%/Lvl.
 ### Boots:
 #### Fleet Foot [5] - 2% Speed/Lvl
 ### Shield:
@@ -23,6 +23,7 @@
 #### Hurricane [3] - Every [4/3/2] Arrow hits, shoot another Arrow at the target.
 ### Crossbow:
 #### Kindle - Flame but for crossbows
+#### Ballistic [5] - 3% Arrow Damage/Lvl
 ### Bow & Crossbow
 #### Razorflight [5] - Ignores 1/Lvl Armor. (Armor Pierce)
 #### Galeforce [1] - Arrow gravity is removed.
