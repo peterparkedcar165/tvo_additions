@@ -5,7 +5,6 @@
 ### Armor:
 #### Vitality [4] - 1 HP/Lvl
 #### Freezing Thorns [3] - Taking damage has a 8.33% (stackable) chance to Freeze attacker for 2/4/6.
-
 ### Melee Weapons:
 #### Vampirism [5] - 3% Lifesteal/Lvl
 #### Agility [5] - 4%/Lvl Attack Speed
@@ -24,7 +23,6 @@
 #### Hurricane [3] - Every [4/3/2] Arrow hits, shoot another Arrow at the target.
 ### Crossbow:
 #### Kindle - Flame but for crossbows
-
 ### Bow & Crossbow
 #### Razorflight [5] - Ignores 1/Lvl Armor. (Armor Pierce)
 #### Galeforce [1] - Arrow gravity is removed.
@@ -32,10 +30,8 @@
 #### Deadshot [5] - 8%/Lvl Crit Damage
 
 ### Effects:
-#### Freezing: 
+#### Freezing: Increments Freeze factor.
+#### Frostbite: Reduce Damage Resistance by 15%.
 ## Mechanics:
 #### Glowing entities now take an additional 20% damage.
 #### Frostbite: When a Freezing entity reaches the point where they take damage, they are inflicted with Frostbite. Reducing Damage Resistance by 15%
-
-
-
