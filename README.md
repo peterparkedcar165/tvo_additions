@@ -29,7 +29,9 @@
 #### Galeforce [1] - Arrow gravity is removed.
 #### Eagle Eye [5] - 4%/Lvl Crit Chance
 #### Deadshot [5] - 8%/Lvl Crit Damage
-
+### All Weapons
+#### Precision [5] - 2/Level Armor Pierce
+#### Shredding [5] - 8%/Level Armor Shred
 ### Effects:
 #### Freezing: Increments Freeze factor.
 #### Frostbite: Reduce Damage Resistance by 15%.
