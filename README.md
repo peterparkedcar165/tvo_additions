@@ -15,11 +15,11 @@
 ### Leggings:
 #### Ghostwalk [5]: Increase Stealth by 8%/Lvl.
 ### Boots:
-#### Fleet Foot [5] - 2% Speed/Lvl
+#### Fleetfoot [5] - 3% Speed/Lvl
 ### Shield:
 #### Riposte [3] - Blocking with a Shield grants makes your next Melee Attack deal 30/60/90% Bonus Damage
 ### Bow:
-#### Quick Draw [5] - 5%/Lvl Draw Speed.
+#### Quick Draw [5] - 4%/Lvl Draw Speed.
 #### Hurricane [3] - Every [4/3/2] Arrow hits, shoot another Arrow at the target.
 ### Crossbow:
 #### Kindle - Flame but for crossbows
