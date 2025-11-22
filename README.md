@@ -19,7 +19,7 @@
 ### Boots:
 #### Fleetfoot [5] - 3% Speed/Lvl
 ### Shield:
-#### Riposte [3] - Blocking with a Shield grants makes your next Melee Attack deal 30/60/90% Bonus Damage
+#### Thorny Buckler [3] - Blocking Melee attacks with a shield returns 25/50/75% of the damage to the attacker.
 ### Bow:
 #### Quick Draw [5] - 4%/Lvl Draw Speed.
 #### Hurricane [3] - Every [4/3/2] seconds, your next Arrow hit on hostiles fires 1/2/3 extra arrows at the target.
