@@ -3,11 +3,13 @@
 
 ## Enchantments
 ### Armor:
-#### Vitality [4] - 1 HP/Lvl
+#### Vitality [5] - 1 HP/Lvl
 #### Freezing Thorns [3] - Taking damage has a 8.33% (stackable) chance to Freeze attacker for 2/4/6.
 ### Melee Weapons:
 #### Vampirism [5] - 3% Lifesteal/Lvl
 #### Agility [5] - 4%/Lvl Attack Speed
+#### Precision [5] - 2/Level Armor Pierce
+#### Shredding [5] - 4%/Level Armor Shred
 ### Helmet:
 #### Alert [5] - 4%/Lvl Evasion.
 ### Chestplate:
@@ -29,9 +31,6 @@
 #### Galeforce [1] - Arrow gravity is removed.
 #### Eagle Eye [5] - 4%/Lvl Crit Chance
 #### Deadshot [5] - 8%/Lvl Crit Damage
-### All Weapons
-#### Precision [5] - 2/Level Armor Pierce
-#### Shredding [5] - 8%/Level Armor Shred
 ### Effects:
 #### Freezing: Increments Freeze factor.
 #### Frostbite: Reduce Damage Resistance by 15%.
