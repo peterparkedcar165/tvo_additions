@@ -22,9 +22,8 @@
 #### Riposte [3] - Blocking with a Shield grants makes your next Melee Attack deal 30/60/90% Bonus Damage
 ### Bow:
 #### Quick Draw [5] - 4%/Lvl Draw Speed.
-#### Hurricane [3] - Every [4/3/2] Arrow hits, shoot another Arrow at the target.
+#### Hurricane [3] - Every [4/3/2] seconds, your next Arrow hit on hostiles fires 1/2/3 extra arrows at the target.
 ### Crossbow:
-#### Kindle - Flame but for crossbows
 #### Ballistic [5] - 3% Arrow Damage/Lvl
 ### Bow & Crossbow
 #### Razorflight [5] - Ignores 1/Lvl Armor. (Armor Pierce)
