@@ -22,7 +22,7 @@
 #### Thorny Buckler [3] - Blocking Melee attacks with a shield returns 25/50/75% of the damage to the attacker.
 ### Bow:
 #### Quick Draw [5] - 4%/Lvl Draw Speed.
-// #### Hurricane [3] - Every [4/3/2] seconds, your next Arrow hit on hostiles fires 1/2/3 extra arrows at the target.
+#### Hurricane [3] - Charging your Bow to the max grants you Hurricane. Next Arrow hit laumches 1/2/3 extra arrows at the target.
 ### Crossbow:
 #### Ballistic [5] - 3% Arrow Damage/Lvl
 ### Bow & Crossbow
